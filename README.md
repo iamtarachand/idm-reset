@@ -1,8 +1,8 @@
 # idm-reset
 Internet Download Manager trial reset script
 
-open notepad
-copy and paste the code
-save as fileName.cmd
-run this file as administrator
-done
+open notepad</br>
+copy and paste the code</br>
+save as fileName.cmd</br>
+run this file as administrator</br>
+done</br>
